@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Launcher App</string>
+    <string name="search">Search</string>
+    <string name="no_search_found">No search found...</string>
+</resources>
